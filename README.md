@@ -10,6 +10,8 @@
 
 - Getting started with GitHub video - https://youtu.be/DDOMH_qkqXE (this is a private video and you may have to login to YouTube using the email address you gave me)
 
+- What is Zeplin? - https://drive.google.com/open?id=1jHY04w36O1ms99FVjxOgmisBYUeiBNdt
+
 
 ## Softwares used
 - Visual Studio Code - https://code.visualstudio.com/
