@@ -1,5 +1,4 @@
-# fcc_mock
-Mock Project for FCC
+# Mock Project for FCC
 
 
 ## Links
@@ -18,3 +17,7 @@ Mock Project for FCC
 - Zeplin - https://zeplin.io/
 
 - GitHub Desktop - https://desktop.github.com/
+
+
+## Troubleshooting
+- Make sure you're a collaborator on this project before setting uo your local environment
