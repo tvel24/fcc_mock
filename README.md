@@ -16,11 +16,13 @@
 
 
 ## Softwares used
-- Visual Studio Code - https://code.visualstudio.com/
+- Visual Studio Code (VS Code) - https://code.visualstudio.com/
 
 - Zeplin - https://zeplin.io/
 
 - GitHub Desktop - https://desktop.github.com/
+
+- Sass compiler for VS Code - https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
 
 
 ## Troubleshooting
