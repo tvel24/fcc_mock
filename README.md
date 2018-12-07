@@ -14,6 +14,8 @@
 
 - What is Zeplin? - https://drive.google.com/open?id=1jHY04w36O1ms99FVjxOgmisBYUeiBNdt
 
+- Getting Started - https://drive.google.com/open?id=1Wd1muTQgYwZfhMZfvErDkQE8wxi-bOxk
+
 
 ## Softwares used
 - Visual Studio Code (VS Code) - https://code.visualstudio.com/
